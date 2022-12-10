@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrvicthor
 - 👀 I’m interested in Data Analysis and Software development
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on web design and softwre development
+- 💞️ I’m looking to collaborate on web design and software development
 - 📫 How to reach me ...
 🐦 https://twitter.com/eva_skillz | ✉️ victoreleanya89@gmail.com
 <!---
