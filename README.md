@@ -37,9 +37,10 @@ You can click the Preview link to take a look at your changes.
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ## 
-
-  <img align='left' width='48%' src='https://github-readme-stats.vercel.app/api?username=mrvicthor&show_icons=true&theme=radical' />
-  <img align='right' width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrvicthor&layout=compact' />
+<div style='display:flex;'>
+  <img align='left' width='45%'  src='https://github-readme-stats.vercel.app/api?username=mrvicthor&show_icons=true&theme=radical' />
+  <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrvicthor&layout=compact' />
+  </div>
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvicthor&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvicthor&show_icons=true&theme=radical) -->
