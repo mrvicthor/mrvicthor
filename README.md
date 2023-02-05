@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrvicthor
+# 👋 Hi, I am Victor Eleanya
 - 👀 I’m interested in Data Analysis and Software development
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on web design and software development
@@ -17,3 +17,8 @@ You can click the Preview link to take a look at your changes.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Connect with me
+<a href='https://www.facebook.com/outtaspace1/' target='_blank'>
+<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' />
+  </a>
