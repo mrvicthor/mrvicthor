@@ -22,3 +22,18 @@ You can click the Preview link to take a look at your changes.
 <a href='https://www.facebook.com/outtaspace1/' target='_blank'>
 <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' />
   </a>
+<a href='https://twitter.com/eva_skillz' target='_blank'>
+  <img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' />
+  </a>
+  <a href='mailto:victoreleanya89@gmail.com'>
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+  </a>
+ <a href='https://www.instagram.com/mrvic_thor/' target='_blank'>
+  <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' />
+</a>
+
+## Framework
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
