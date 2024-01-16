@@ -1,6 +1,6 @@
 # 👋 Hi, I am Victor Eleanya
 - 👀 I’m interested in Data Analysis and Software development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Angular, and NextJs14
 - 💞️ I’m looking to collaborate on web design and software development
 <!---
 mrvicthor/mrvicthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
